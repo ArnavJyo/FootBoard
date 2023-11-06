@@ -1,0 +1,21 @@
+,Unnamed: 0,position,playedGames,form,won,draw,lost,points,goalsFor,goalsAgainst,goalDifference,team_id,team_name,team_shortName,team_tla,team_crest
+0,0,1,4,0.0,4,0,0,12,11,2,9,65,Manchester City FC,Manchester City,MCI,https://crests.football-data.org/65.png
+1,1,2,4,0.0,3,1,0,10,11,4,7,73,Tottenham Hotspur Hotspur FC,Tottenham Hotspur,TOT,https://crests.football-data.org/73.svg
+2,2,3,4,0.0,3,1,0,10,9,3,6,64,Liverpool FC,Liverpool,LIV,https://crests.football-data.org/64.png
+3,3,4,4,0.0,3,1,0,10,9,4,5,563,West Ham United FC,West Ham,WHU,https://crests.football-data.org/563.png
+4,4,5,4,0.0,3,1,0,10,8,4,4,57,Arsenal FC,Arsenal,ARS,https://crests.football-data.org/57.png
+5,5,6,4,0.0,3,0,1,9,12,6,6,397,Brighton & Hove Albion FC,Brighton Hove,BHA,https://crests.football-data.org/397.svg
+6,6,7,4,0.0,2,1,1,7,5,4,1,354,Crystal Palace FC,Crystal Palace,CRY,https://crests.football-data.org/354.png
+7,7,8,4,0.0,1,3,0,6,8,5,3,402,Brentford FC,Brentford,BRE,https://crests.football-data.org/402.png
+8,8,9,4,0.0,2,0,2,6,6,6,0,351,Nottingham Forest Forest FC,Nottingham Forest,NOT,https://crests.football-data.org/351.png
+9,9,10,4,0.0,2,0,2,6,8,9,-1,58,Aston Villa FC,Aston Villa,AVL,https://crests.football-data.org/58.png
+10,10,11,4,0.0,2,0,2,6,5,7,-2,66,Manchester United FC,Manchester United,MUN,https://crests.football-data.org/66.png
+11,11,12,4,0.0,1,1,2,4,5,5,0,61,Chelsea FC,Chelsea,CHE,https://crests.football-data.org/61.png
+12,12,13,4,0.0,1,1,2,4,4,10,-6,63,Fulham FC,Fulham,FUL,https://crests.football-data.org/63.svg
+13,13,14,4,0.0,1,0,3,3,7,7,0,67,Newcastle United United FC,Newcastle United,NEW,https://crests.football-data.org/67.png
+14,14,15,4,0.0,1,0,3,3,4,8,-4,76,Wolverhampton Wanderers FC,Wolverhampton,WOL,https://crests.football-data.org/76.svg
+15,15,16,4,0.0,0,2,2,2,4,8,-4,1044,AFC Bournemouth,Bournemouth,BOU,https://crests.football-data.org/1044.png
+16,16,17,4,0.0,0,1,3,1,4,7,-3,356,Sheffield United FC,Sheffield Utd,SHE,https://crests.football-data.org/356.svg
+17,17,18,4,0.0,0,1,3,1,2,8,-6,62,Everton FC,Everton,EVE,https://crests.football-data.org/62.png
+18,18,19,3,0.0,0,0,3,0,2,9,-7,389,Luton Town FC,Luton Town,LUT,https://crests.football-data.org/389.png
+19,19,20,3,0.0,0,0,3,0,3,11,-8,328,Burnley FC,Burnley,BUR,https://crests.football-data.org/328.png
