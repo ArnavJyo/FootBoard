@@ -26,7 +26,7 @@ sidebar = html.Div(
         dbc.Nav(
             [
                 dbc.NavLink(
-                    [html.I(className="tf-icons bx bx-trophy fas fa-home"), html.Span("22/23 Season Stats" , className="me-2")],
+                    [html.I(className="tf-icons bx bx-trophy fas fa-home"), html.Span("22/23 Season" , className="me-2")],
                     href="/",
                     active="exact",
                     className="pe-3"
