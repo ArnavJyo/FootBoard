@@ -28,7 +28,7 @@ Navigate to the "Teams" tab to compare the performance of different teams side b
 
 1. Clone the repository to your local machine.
    ```
-   git clone https://github.com/yourusername/premier-league-dashboard.git
+   git clone https://github.com/<your username>/FootBoard.git
    ```
 
 2. Install  the requirments to run this on your local machine
