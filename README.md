@@ -3,7 +3,7 @@
 Welcome to the Premier League Dashboard – your comprehensive guide to the English Premier League through the ages. This dynamic web app is designed to give you unparalleled insights into the league's rich history, last season's analytics, current season results, and predicted standings. Dive into the world of football statistics, explore match details, and compare team performances with ease.
 https://footboard.onrender.com
 ## Demo
-![] footboard-demo.gif
+![] (https://github.com/ArnavJyo/FootBoard/blob/136f770acc30bf4d874888f13c387a92450aacac/footboard-demo.gif)
 
 ## Features
 
