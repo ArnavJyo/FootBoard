@@ -77,7 +77,7 @@ app.layout = html.Div([
 html.Footer(className="content-footer footer bg-footer-theme",
  children=[
 ],style={"margin-left": "6rem"}) ])])])
-],style={'font-family': "RadikalMedium"})
+],style={'font-family': "RadikalMedium","margin-left": "6rem"})
 @callback(
     Output(component_id ='page-content',component_property='children'),
     Input(component_id = 'url',component_property='pathname')  
