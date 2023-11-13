@@ -18,7 +18,8 @@ sidebar = html.Div(
             [
 
                 html.Img(src="./assets/images/premierleaguelogo.jpg", style={"width": "3rem",'font-family': "RadikalMedium"}),
-                html.H6("PremierLeague", className="m-0"),
+                dbc.NavLink([
+                html.H6("PremierLeague", className="me-2",style={"font-size": "12px"})],href="/"),
             ],
             className="sidebar-header",
         ),
