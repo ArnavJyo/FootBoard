@@ -28,16 +28,16 @@ Navigate to the "Teams" tab to compare the performance of different teams side b
 
 1. Clone the repository to your local machine.
    ```
-git clone https://github.com/yourusername/premier-league-dashboard.git
+   git clone https://github.com/yourusername/premier-league-dashboard.git
    ```
 
 2. Install  the requirments to run this on your local machine
   ```
-pip install -r requirments.txt
+   pip install -r requirments.txt
   ```
 3. Run the main app.py file to start the server
 ```
-python src/app.py
+   python src/app.py
 ```
    
 4. Explore the tabs and features to uncover the wealth of information about the English Premier League.
