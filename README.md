@@ -4,7 +4,7 @@ Welcome to the Premier League Dashboard – your comprehensive guide to the Engl
 https://footboard.onrender.com
 ## Demo
 
-![](https://github.com/ArnavJyo/FootBoard/blob/main/Screen%20Recording%20-%20Nov%2013%2C%202023.mp4)
+![footboard demo](https://github.com/ArnavJyo/FootBoard/blob/main/footboard-demo.gif)
 
 ## Features
 
